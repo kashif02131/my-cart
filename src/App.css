@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.Inline-p {
+  display: inline;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.ImageStyle {
+  width: 150px;
+  height: 150px;
+}
+
+.ModalImageStyle {
+  width: 250px;
+  height: 250px;
+}
+
+.AlignTable {
+  text-align: center;
+  border: none;
+}
+
+.ButtonWidth {
+  width: 100%;
+}
+
+.SelectionButton {
+  width: 33%;
+  border: none;
+  height: 20px;
+}
+
+.DropDown {
+  width: 60%;
+}
+
+.InputWidth {
+  width: 40%;
 }
